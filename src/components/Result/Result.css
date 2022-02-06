@@ -1,0 +1,14 @@
+.result-Style {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-left: 95px;
+  margin-right: 95px;
+  margin-top: 20px;
+  border-radius: 40%;
+  background-color: rgb(36, 38, 180);
+  color: white;
+}
